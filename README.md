@@ -1,2 +1,0 @@
-# javascriptcourses
-My first homework
